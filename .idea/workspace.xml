@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98860bcd-7ad2-4239-ac6e-cef68d7425d9" name="Default Changelist" comment="Text Processing Exercise" />
+    <list default="true" id="b40b9871-0710-41dc-9709-1692191ef90e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1p15yJUkbUkDVDd8EdWJjQqQ3Z7" />
+  <component name="ProjectId" id="1q8zcIwigFcWGMp4stMmTi59m9V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,27 +24,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SoftwareUniversity/TextProccessingExercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EasyProblems" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ValidUsernames">
-    <configuration name="TheatrePromotions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheatrePromotions" />
-      <module name="Basic Syntax, Conditional Statements and Loops - Lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidUsernames" />
-      <module name="TextProccessingExercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -59,43 +41,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ValidUsernames" />
-        <item itemvalue="Application.TheatrePromotions" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98860bcd-7ad2-4239-ac6e-cef68d7425d9" name="Default Changelist" comment="" />
-      <created>1614338012362</created>
+      <changelist id="b40b9871-0710-41dc-9709-1692191ef90e" name="Default Changelist" comment="" />
+      <created>1616476084538</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614338012362</updated>
-      <workItem from="1614338014579" duration="1872000" />
-      <workItem from="1614340128600" duration="659000" />
-      <workItem from="1614340822260" duration="169000" />
-      <workItem from="1614625159408" duration="2108000" />
-      <workItem from="1614674052559" duration="53000" />
-      <workItem from="1614689906074" duration="470000" />
+      <updated>1616476084538</updated>
+      <workItem from="1616476091077" duration="274000" />
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1614340521682</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1614340521682</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Basic Syntax and Conditional Statements">
-      <created>1614625382006</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1614625382006</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,11 +67,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <MESSAGE value="Basic Syntax and Conditional Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Syntax and Conditional Statements" />
   </component>
 </project>
